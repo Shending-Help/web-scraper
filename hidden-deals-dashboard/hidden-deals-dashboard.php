@@ -1,10 +1,4 @@
 <?php
-/**
- * Plugin Name: Hidden Deals Dashboard
- * Description: Displays a React-based dashboard for hidden property deals in the WP admin.
- * Version: 1.0.0
- * Author: Your Name
- */
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
